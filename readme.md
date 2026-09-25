@@ -1,5 +1,4 @@
-# Discord Server https://discord.gg/tf673CkW
-# Untitled Proxy! PLEASE STAR!!!!
+# Untitledserver! PLEASE STAR!!!!
 A fast proxy that is lightweight and has efficency in mind!
 # How to host?
 Currently it is static(Without a bare server) running on my own special bare server!
